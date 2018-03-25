@@ -1,0 +1,2 @@
+# FitByte
+eating detection project
